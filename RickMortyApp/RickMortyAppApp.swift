@@ -8,10 +8,14 @@
 import SwiftUI
 
 @main
-struct RickMortyAppApp: App {
+struct RickAndMortyAppApp: App {
+    @StateObject var router = Router()
+    
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationStack(path: $router.navStack) {
+                ContentView()
+            }.environmentObject(router)
         }
     }
 }
