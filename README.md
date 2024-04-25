@@ -36,7 +36,7 @@ Embark on an exhilarating journey through the vast multiverse with the RickAndMo
 ### Installation Steps
 1. Clone the repository
    ```
-   git clone https://github.com/YourUsername/RickAndMortyMultiverseExplorer.git
+   git clone https://github.com/YourUsername/RickAndMortyApp.git
    ```
 2. Launch `RickAndMortyMultiverseExplorer.xcodeproj` in Xcode.
 3. Build and run the project on the Xcode simulator or a physical device.
