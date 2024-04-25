@@ -38,5 +38,5 @@ Embark on an exhilarating journey through the vast multiverse with the RickAndMo
    ```
    git clone https://github.com/YourUsername/RickAndMortyApp.git
    ```
-2. Launch `RickAndMortyMultiverseExplorer.xcodeproj` in Xcode.
+2. Launch `RickAndMortyApp.xcodeproj` in Xcode.
 3. Build and run the project on the Xcode simulator or a physical device.
